@@ -26,19 +26,9 @@ Output variable (based on sensory data):
 12 - quality (score between 0 and 10)
 
 What might be an interesting thing to do, is to set an arbitrary cutoff for your dependent variable (wine quality) at e.g. 7 or higher getting classified as 'good/1' and the remainder as 'not good/0'.
-This allows you to practice with hyper parameter tuning on e.g. decision tree algorithms looking at the ROC curve and the AUC value.
+This allows to practice with hyper parameter tuning on e.g. decision tree algorithms looking at the ROC curve and the AUC value.
 
-You need to build a classification model. 
-
-Inspiration
-
-Use machine learning to determine which physiochemical properties make a wine 'good'!
-
-
-
-Submission Details
-
-- Share the link of the repository as your submission.  
+need to build a classification model. 
 
 Downlaod Files:
 https://github.com/dsrscientist/DSData/blob/master/winequality-red.csv
