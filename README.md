@@ -1,5 +1,8 @@
 # Red-Wine-Quality-Prediction
 
+![Red wine](https://user-images.githubusercontent.com/96686904/196755197-243526fc-e191-44c5-8a91-62590afe3264.jpg)
+
+
 Problem Statement:
 The dataset is related to red and white variants of the Portuguese "Vinho Verde" wine. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
 
